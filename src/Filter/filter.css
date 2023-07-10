@@ -1,0 +1,20 @@
+.Filter {
+  width: 600px;
+  padding: 15px;
+  background: #1d1e20;
+  justify-content: space-between;
+  display: flex;
+}
+
+select {
+  width: 150px;
+  height: 30px;
+  background: #252628;
+  border: none;
+  border-radius: 100vw;
+  color: #bfc0c2;
+}
+
+.hiden {
+  display: none;
+}
